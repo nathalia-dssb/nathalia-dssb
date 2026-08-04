@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/1c/1f/5d/1c1f5d3d0220c1b07576d3eee4b2a209.gif" width="100%" alt="Welcome Banner">
+  <br/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Nath!)](https://git.io/typing-svg)
@@ -53,5 +54,5 @@ I am a passionate Full Stack Developer with a strong creative edge. As a self-ta
 
 ### Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/nathalia-dssb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-dssb/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathalia.dssb@gmail.com)
