@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/1c/1f/5d/1c1f5d3d0220c1b07576d3eee4b2a209.gif" width="100%" alt="Welcome Banner">
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nathalia-dssb&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Nath!)](https://git.io/typing-svg)
 
 ### Frontend / Backend / Full Stack / UI / UX Developer based in QRO/Mexico
 
@@ -47,8 +47,6 @@ I am a passionate Full Stack Developer with a strong creative edge. As a self-ta
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nathalia-dssb&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-dssb&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=8a8a8a" alt="Top Languages" />
 </div>
 
 ---
