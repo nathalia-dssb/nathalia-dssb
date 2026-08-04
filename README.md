@@ -11,7 +11,7 @@ I am a passionate Full Stack Developer with a strong creative edge. As a self-ta
 
 - 🔭 Currently working on **Vauxoo & Centro de Desarrollo**
 - 🌱 Currently learning **Cloud Architecture on AWS and Data Engineering**
-- 📫 How to reach me: **[nathalia.dss@gmail.com]**
+- 📫 How to reach me: **[nathalia.dssb@gmail.com]**
 
 ---
 
