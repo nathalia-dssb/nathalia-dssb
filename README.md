@@ -2,9 +2,9 @@
   <img src="https://i.pinimg.com/originals/1c/1f/5d/1c1f5d3d0220c1b07576d3eee4b2a209.gif" width="100%" alt="Welcome Banner">
 </div>
 
-# Hello, I'm Nath!
+[![GitHub Streak](https://streak-stats.demolab.com?user=nathalia-dssb&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-### [Frontend / Backend / Full Stack / UI / UX] Developer based in [QRO/Mexico]
+### Frontend / Backend / Full Stack / UI / UX Developer based in QRO/Mexico
 
 I am a passionate Full Stack Developer with a strong creative edge. As a self-taught graphic designer and tech enthusiast, I thrive at the intersection of design and engineering. My expertise lies in crafting intuitive UI/UX experiences while building robust backend systems, allowing me to deliver complete, user-centric applications. Whether I'm architecting a database or fine-tuning a visual interface, I bring a creative problem-solving approach to every challenge. I'm highly adaptable and always open to collaborating on innovative projects across any field.
 
@@ -46,7 +46,7 @@ I am a passionate Full Stack Developer with a strong creative edge. As a self-ta
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathalia-dssb&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=8a8a8a" alt="GitHub Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nathalia-dssb&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-dssb&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=8a8a8a" alt="Top Languages" />
 </div>
